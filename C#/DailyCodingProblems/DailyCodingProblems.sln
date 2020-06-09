@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyCodingProblems", "DailyCodingProblems.csproj", "{31763413-9431-403B-A278-5F216C29FF4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1", "..\..\Day1\Day1\Day1.csproj", "{743E3236-1E47-4B8D-B5AC-6E5F24A9FB3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Days", "..\..\Day1\Day1\Days.csproj", "{743E3236-1E47-4B8D-B5AC-6E5F24A9FB3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
