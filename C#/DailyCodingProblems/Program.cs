@@ -16,6 +16,12 @@ namespace DailyCodingProblems
 
                 day1.TwoNumbersInArrayAddUp();
             }
+            else if (problemToBeRan == (int)DayToRunEnums.Day2)
+            {
+                var day2 = new Day2();
+
+                day2.MultiplyArrElementsSkippingCurrentElement();
+            }
         }
     }
 }
