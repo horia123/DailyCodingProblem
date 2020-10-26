@@ -26,6 +26,12 @@ namespace DailyCodingProblems
                         day2.MultiplyArrElementsSkippingCurrentElement();
                         break;
                     }
+                case (int)DayToRunEnums.Day3:
+                    {
+                        var day3 = new Day3();
+                        day3.SerializeDeserializeBinaryTree();
+                        break;
+                    }
                 case (int)DayToRunEnums.Day10:
                     {
                         var day10 = new Day10();
