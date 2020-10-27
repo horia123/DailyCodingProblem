@@ -1,4 +1,8 @@
-﻿using Days;
+﻿using Days.Day1;
+using Days.Day10;
+using Days.Day2;
+using Days.Day3;
+using Days.Day4;
 using System;
 
 namespace DailyCodingProblems
@@ -30,6 +34,12 @@ namespace DailyCodingProblems
                     {
                         var day3 = new Day3();
                         day3.SerializeDeserializeBinaryTree();
+                        break;
+                    }
+                case (int)DayToRunEnums.Day4:
+                    {
+                        var day4 = new Day4();
+                        day4.Run();
                         break;
                     }
                 case (int)DayToRunEnums.Day10:

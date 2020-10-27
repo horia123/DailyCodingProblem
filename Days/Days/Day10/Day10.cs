@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Days
+namespace Days.Day10
 {
     public class Day10
     {

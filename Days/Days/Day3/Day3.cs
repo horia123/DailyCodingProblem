@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http.Headers;
 using System.Text;
 
-namespace Days
+namespace Days.Day3
 {
     /*Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s),
      *which deserializes the string back into the tree. For example, given the following Node class:
