@@ -3,6 +3,7 @@ using Days.Day10;
 using Days.Day2;
 using Days.Day3;
 using Days.Day4;
+using Days.Day5;
 using System;
 
 namespace DailyCodingProblems
@@ -40,6 +41,12 @@ namespace DailyCodingProblems
                     {
                         var day4 = new Day4();
                         day4.Run();
+                        break;
+                    }
+                case (int)DayToRunEnums.Day5:
+                    {
+                        var day5 = new Day5();
+                        day5.Run();
                         break;
                     }
                 case (int)DayToRunEnums.Day10:
